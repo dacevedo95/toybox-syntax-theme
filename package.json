@@ -1,7 +1,7 @@
 {
     "name": "toybox-syntax-theme",
     "theme": "syntax",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "ToyBox is a gorgeous syntax theme for Atom designed to bring out the creative kid in you.",
     "keywords": [
         "syntax",
