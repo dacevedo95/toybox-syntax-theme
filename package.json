@@ -1,0 +1,17 @@
+{
+    "name": "toybox-syntax-theme",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "ToyBox is a gorgeous syntax theme designed to bring out the creative kid in you.",
+    "keywords": [
+        "syntax",
+        "theme",
+        "toybox",
+        "aesthetic"
+    ],
+    "repository": "https://github.com/dacevedo95/toybox-syntax-theme",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
